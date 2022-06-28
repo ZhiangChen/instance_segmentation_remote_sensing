@@ -11,5 +11,4 @@ RUN apt update \
 
 RUN pip3 install --upgrade numpy
 
-RUN cd /root && git clone https://github.com/ZhiangChen/instance_segmentation_remote_sensing.git
 
